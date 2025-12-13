@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "British Virgin Islands",
+        "countrycode": "VG",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Dubstep FM",
+        "url": "http:\/\/stream.dubstep.fm\/128mp3",
+        "country": "British Virgin Islands",
+        "countrycode": "VG",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

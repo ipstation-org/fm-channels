@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Martinique 1ère",
+        "url": "http:\/\/martinique.ice.infomaniak.ch\/martinique-128.mp3",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "NRJ Antilles",
+        "url": "https:\/\/streaming.nrjaudio.fm\/ou4w6dhtd2ko",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "pop",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Fusion",
+        "url": "http:\/\/france16.coollabel-productions.com:8276\/;listen.m3u",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "creole,french",
+        "favicon": "https:\/\/radiofusion.fr\/wp-content\/uploads\/2025\/02\/cropped-fusion-600-180x180.png"
+    },
+    {
+        "name": "Radio Mojito",
+        "url": "https:\/\/fmcpmediatest.ice.infomaniak.ch\/fmcp-128.mp3",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/radio-pub.be\/Radio%20Mojito\/CK%20Mojito.png"
+    },
+    {
+        "name": "Radio Zoukla",
+        "url": "https:\/\/ecmanager4.pro-fhi.net:2605\/stream",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.telezoukla.com\/gallery_gen\/6d4a9194d48a7ee753a9d5810901fd90_472x204_fit.png?ts=1732770225"
+    },
+    {
+        "name": "Super Radio",
+        "url": "http:\/\/str81.streamakaci.com:9160\/",
+        "country": "Martinique",
+        "countrycode": "MQ",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "creole,french",
+        "favicon": "http:\/\/super-radio.radio-site.com\/upload\/5b25e37f31f524.12118265.ico"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "BUZZ FM 96.3",
+        "url": "https:\/\/streamer.dailypost.vu\/live",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.buzzfm.vu\/wp-content\/uploads\/2025\/02\/logo-online.png"
+    },
+    {
+        "name": "BUZZ FM 96.3",
+        "url": "https:\/\/streamer.dailypost.vu\/live",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "Centre, sef, Vanuatu",
+        "tags": "news,pop rock",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/www.buzzfm.vu\/wp-content\/uploads\/2025\/02\/logo-online.png"
+    },
+    {
+        "name": "Femme Pawa FM",
+        "url": "https:\/\/radio.vbtc.vu\/femmefm",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "Port Vila, sef, Vanuatu",
+        "tags": "variety",
+        "bitrate": 90,
+        "codec": "MP3",
+        "language": "bislama,english,french",
+        "favicon": "https:\/\/vbtc.vu\/wp-content\/uploads\/2025\/01\/femme-fm-FINAL-Logo_Trans.png"
+    },
+    {
+        "name": "Paradise 98FM",
+        "url": "https:\/\/radio.vbtc.vu\/paradisefm",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "Port Vila, sef, Vanuatu",
+        "tags": "variety",
+        "bitrate": 90,
+        "codec": "MP3",
+        "language": "bislama,english",
+        "favicon": "https:\/\/vbtc.vu\/wp-content\/uploads\/2025\/01\/Paradise-FM-Logo.png"
+    },
+    {
+        "name": "Radio Laef FM",
+        "url": "https:\/\/stream4.rcast.net\/69310",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "Port Vila, sef, Vanuatu",
+        "tags": "christian music,education",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/laeffm.org\/wp-content\/uploads\/2020\/03\/Laef-fm-logo.png"
+    },
+    {
+        "name": "Radio Vanuatu",
+        "url": "https:\/\/stream4.rcast.net\/69310",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "Port Vila, sef, Vanuatu",
+        "tags": "variety",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/vbtc.vu\/wp-content\/uploads\/2022\/03\/VBTC-logo-3.png.webp"
+    },
+    {
+        "name": "radioalfa tropical5",
+        "url": "http:\/\/stream-176.zeno.fm\/x9y4ytkavqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OXk0eXRrYXZxenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicTMzMnlJRFdSYk8xeWI2dURiLWd6dyIsImlhdCI6MTc2NTUzODU2MCwiZXhwIjoxNzY1NTM4NjIwfQ.PpFz757CJ9nWQLqgSH1_fJT_t1WtpkbJtbc7TSN4cLo",
+        "country": "Vanuatu",
+        "countrycode": "VU",
+        "state": "",
+        "tags": "university radio",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "http:\/\/radioalfatropical5.blogspot.com\/favicon.ico"
+    }
+]

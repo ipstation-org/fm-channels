@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Mayotte",
+        "countrycode": "YT",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Mayotte La 1ère",
+        "url": "https:\/\/mayotte.ice.infomaniak.ch\/mayotte-128.mp3",
+        "country": "Mayotte",
+        "countrycode": "YT",
+        "state": "",
+        "tags": "french overseas,public radio",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french,shimaoré",
+        "favicon": "https:\/\/la1ere.francetvinfo.fr\/favicon.ico"
+    },
+    {
+        "name": "Mayotte La 1ère",
+        "url": "http:\/\/mayotte.ice.infomaniak.ch\/mayotte-128.mp3",
+        "country": "Mayotte",
+        "countrycode": "YT",
+        "state": "Haut-Vallon",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/fr.wikipedia.org\/wiki\/Mayotte_La_Premi%C3%A8re_%28t%C3%A9l%C3%A9vision%29#\/media\/Fichier:Mayotte_La_1%C3%A8re_-_Logo_2018.svg"
+    },
+    {
+        "name": "Radio Dziani",
+        "url": "https:\/\/listen.radioking.com\/radio\/3331\/stream\/63166",
+        "country": "Mayotte",
+        "countrycode": "YT",
+        "state": "Pamandzi ",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

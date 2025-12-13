@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Idaacadda Subaxnimo VOA",
+        "url": "https:\/\/voa-audio.voanews.eu\/VSO\/2021\/04\/29\/20210429-033000-VSO065-program_48k.mp3",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "news",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Daljir",
+        "url": "https:\/\/stream-179.zeno.fm\/uru8h6ahv6duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1cnU4aDZhaHY2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibWp4OEQtUE5SYnltYkJMaVhyTUtKQSIsImlhdCI6MTc2NTU1MzY1OSwiZXhwIjoxNzY1NTUzNzE5fQ.587_HoRNTin-_HMDZ791wNO57s-zahr9oYCxS4gOdfQ",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.daljir.com\/wp-content\/uploads\/2017\/02\/Daljir-Logo139x74.png"
+    },
+    {
+        "name": "Roob",
+        "url": "http:\/\/stream-176.zeno.fm\/t0dhv78c9s8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0MGRodjc4YzlzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWFAtdy10dkRSMC1za3VRYllqRURxQSIsImlhdCI6MTc2NTU4MDE3NiwiZXhwIjoxNzY1NTgwMjM2fQ.Mw5WrqV0ka2megplDp3jzceCNA9Y5uva0VPoXyTxBmA",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "news",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "TestFM24",
+        "url": "https:\/\/stream-175.zeno.fm\/apdaqqlnpahuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcGRhcXFsbnBhaHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTWNMTzEzd3JRbnE2a29fYnAxUWhJQSIsImlhdCI6MTc1OTgxNjA3NCwiZXhwIjoxNzU5ODE2MTM0fQ.3xoQfTNygv-ra93afAai1KhYOR2DLo_kM43tnqj1Jmw",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/zeno.fm\/static\/icons\/apple-icon-120x120.png"
+    },
+    {
+        "name": "TestFM24",
+        "url": "https:\/\/stream-175.zeno.fm\/apdaqqlnpahuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcGRhcXFsbnBhaHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNXFZY1RRR0dRTS1URWJicjBoZ3NQdyIsImlhdCI6MTc1OTgxMTc0NSwiZXhwIjoxNzU5ODExODA1fQ.tKJLGR83XRrBvhBnv_NAMqaCP1mffWzSKepJxMx7uLk",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/zeno.fm\/static\/icons\/apple-icon-120x120.png"
+    },
+    {
+        "name": "VOA Somali",
+        "url": "",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "news",
+        "bitrate": 0,
+        "codec": "",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "اذاعة القرآن الكريم",
+        "url": "http:\/\/n02.radiojar.com\/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmxFDRJIAC4_4p3eTjYP5hg",
+        "country": "Somalia",
+        "countrycode": "SO",
+        "state": "",
+        "tags": "classical",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

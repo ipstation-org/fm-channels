@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "NIA Lo-Fi",
+        "url": "https:\/\/radio.nia.nc\/radio\/8020\/lofi-hq-stream.aac?1734100301",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/nia.nc\/static\/icons\/apple-touch-icon.png"
+    },
+    {
+        "name": "NIA Pacifique",
+        "url": "https:\/\/radio.nia.nc\/radio\/8000\/pacific-hq-stream.aac?1734100041",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/nia.nc\/static\/icons\/apple-touch-icon.png"
+    },
+    {
+        "name": "NIA Radio - Pacifique",
+        "url": "https:\/\/radio.nia.nc\/radio\/8000\/pacific-hq-stream.aac",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "electronica,house,techno",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/nia.nc\/static\/icons\/apple-touch-icon.png"
+    },
+    {
+        "name": "NIA Radio Lo-Fi",
+        "url": "https:\/\/radio.nia.nc\/radio\/8020\/lofi-hq-stream.aac",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "chillout,lofi,lofi hip hop",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Nouvelle-Calédonie La Première",
+        "url": "https:\/\/nouvelle-caledonie.ice.infomaniak.ch\/nouvelle-caledonie-128.mp3",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "Nouméa",
+        "tags": "music,talk",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Djiido",
+        "url": "http:\/\/radiodjiido.nc:8002\/",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "chroniques,info,musique",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Paraiso",
+        "url": "http:\/\/stream-uk1.radioparadise.com\/aac-320",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "",
+        "bitrate": 320,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "http:\/\/www.radioparadise.com\/apple-touch-icon.png"
+    },
+    {
+        "name": "Radio Rythme Bleu",
+        "url": "https:\/\/webradio.lagoon.nc\/rrb",
+        "country": "New Caledonia",
+        "countrycode": "NC",
+        "state": "",
+        "tags": "",
+        "bitrate": 82,
+        "codec": "MP3",
+        "language": "francaise",
+        "favicon": "https:\/\/www.rrb.nc\/favicon.ico"
+    }
+]

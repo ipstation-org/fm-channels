@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Togo",
+        "countrycode": "TG",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Radio Gameli",
+        "url": "http:\/\/usa1.fastcast4u.com:3190\/stream\/",
+        "country": "Togo",
+        "countrycode": "TG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/radiolebene.tg\/images\/news\/favicon-32x32.png"
+    },
+    {
+        "name": "RADIO MARIA TOGO",
+        "url": "http:\/\/dreamsiteradiocp.com:8050\/stream",
+        "country": "Togo",
+        "countrycode": "TG",
+        "state": "",
+        "tags": "catholic,catolica,christian,religion,religious,talk",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Victoire 96.3 Lomé",
+        "url": "https:\/\/stream-152.zeno.fm\/vkhv6gl43g5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2a2h2NmdsNDNnNXR2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUkloT01fWXFUNzZsc0h6b3J1cUxldyIsImlhdCI6MTc2NTU2MjEyOCwiZXhwIjoxNzY1NTYyMTg4fQ.eFJqwb4Lj5VjEl1lDodwuaUvHbb3GmiTMcNmrk1Yz4c",
+        "country": "Togo",
+        "countrycode": "TG",
+        "state": "",
+        "tags": "music",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/i0.wp.com\/victoirefm.com\/wp-content\/uploads\/2021\/08\/cropped-favico.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Shalom Info",
+        "url": "http:\/\/stream-178.zeno.fm\/a0kvrgmcqm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMGt2cmdtY3FtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWZYSXZ5S2tSWmFqdUwtcTR2YVpZUSIsImlhdCI6MTc2NTU0NDEwOSwiZXhwIjoxNzY1NTQ0MTY5fQ.Gv_MZ1V2NlQa0bp6E5PhGZJCNeCgvjgp21_Fq-6Yb6g",
+        "country": "Togo",
+        "countrycode": "TG",
+        "state": "",
+        "tags": "classical",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "taxi fm",
+        "url": "https:\/\/streaming.brol.tech\/rtfmlounge",
+        "country": "Togo",
+        "countrycode": "TG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    }
+]

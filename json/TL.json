@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Timor Leste",
+        "countrycode": "TL",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Radio VOZ",
+        "url": "https:\/\/stream2.rcast.net\/67902",
+        "country": "Timor Leste",
+        "countrycode": "TL",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

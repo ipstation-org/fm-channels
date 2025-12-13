@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Tajikistan",
+        "countrycode": "TJ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Ozodi",
+        "url": "http:\/\/n03.radiojar.com\/mn1ukbapn3quv?rj-ttl=5&rj-tok=AAABmk1lnQwAXh0Ckn_ftzzp6g",
+        "country": "Tajikistan",
+        "countrycode": "TJ",
+        "state": "Perag",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "persian",
+        "favicon": ""
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https:\/\/qurango.net\/radio\/mahmoud_khalil_alhussary_warsh",
+        "country": "Tajikistan",
+        "countrycode": "TJ",
+        "state": "",
+        "tags": "islamic، classical",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Ховар FM 101.5",
+        "url": "https:\/\/radio.khovar.tj\/live",
+        "country": "Tajikistan",
+        "countrycode": "TJ",
+        "state": "",
+        "tags": "music",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "tajik",
+        "favicon": ""
+    }
+]

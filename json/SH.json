@@ -1,0 +1,26 @@
+[
+    {
+        "name": "EDM Radio",
+        "url": "https:\/\/edmradio.stream.laut.fm\/edmradio?t302=2025-12-12_19-10-07&uuid=3ddf8955-3b42-4402-867b-7e7cebc6a58d",
+        "country": "Ascension And Tristan Da Cunha Saint Helena",
+        "countrycode": "SH",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "geopn",
+        "favicon": "null"
+    },
+    {
+        "name": "Saint.FM",
+        "url": "https:\/\/orbit.citrus3.com:8306\/stream",
+        "country": "Ascension And Tristan Da Cunha Saint Helena",
+        "countrycode": "SH",
+        "state": "",
+        "tags": "community radio",
+        "bitrate": 100,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

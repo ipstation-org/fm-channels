@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Palau",
+        "countrycode": "PW",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Radio Palau",
+        "url": "https:\/\/radioserver11.profesionalhosting.com\/proxy\/74230?mp=\/stream",
+        "country": "Palau",
+        "countrycode": "PW",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "UpBeat.pw",
+        "url": "https:\/\/live.upbeat.pw\/",
+        "country": "Palau",
+        "countrycode": "PW",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/upbeatradio.net\/v3\/_images_\/_favicon_\/android-icon-192x192.png"
+    }
+]

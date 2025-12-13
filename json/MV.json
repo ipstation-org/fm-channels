@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Maldives",
+        "countrycode": "MV",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Dhivehi FM",
+        "url": "https:\/\/radio.psm.mv\/fmair",
+        "country": "Maldives",
+        "countrycode": "MV",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/pea.fm\/uploads\/posts\/2020-10\/1601942486_dhivehi-fm-91_0.jpg"
+    },
+    {
+        "name": "Dhivehi FM",
+        "url": "https:\/\/radio.psm.mv\/fmair",
+        "country": "Maldives",
+        "countrycode": "MV",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.facebook.com\/photo.php?fbid=694827997253815&id=342512189152066&set=a.342512289152056"
+    },
+    {
+        "name": "Dhivehi Raajjeyge Adu",
+        "url": "https:\/\/radio.psm.mv\/draair",
+        "country": "Maldives",
+        "countrycode": "MV",
+        "state": "",
+        "tags": "adu,dhivehi",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "dhivehi",
+        "favicon": "https:\/\/pea.fm\/uploads\/posts\/2020-10\/1601942624_dhivehi-raajjeyge-adu.jpg"
+    },
+    {
+        "name": "Kinozal.TV",
+        "url": "https:\/\/listen4.myradio24.com\/kinozaltv",
+        "country": "Maldives",
+        "countrycode": "MV",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "dhivehi,english,french,german,spanish",
+        "favicon": ""
+    }
+]

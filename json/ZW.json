@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Zimbabwe",
+        "countrycode": "ZW",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Capitalk 100.4FM Harare",
+        "url": "https:\/\/edge.iono.fm\/xice\/162_medium.aac",
+        "country": "Zimbabwe",
+        "countrycode": "ZW",
+        "state": "Harare",
+        "tags": "african music",
+        "bitrate": 0,
+        "codec": "AAC",
+        "language": "english",
+        "favicon": "https:\/\/cdn-radiotime-logos.tunein.com\/s295932d.png"
+    },
+    {
+        "name": "CENTRAL RADIO 98.5",
+        "url": "https:\/\/centralstream.zbc.co.zw:8000\/radio.mp3",
+        "country": "Zimbabwe",
+        "countrycode": "ZW",
+        "state": "",
+        "tags": "",
+        "bitrate": 256,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/www.centralradio.co.zw\/wp-content\/uploads\/2021\/11\/central_loge-removebg-preview.png"
+    },
+    {
+        "name": "Nehanda Radio",
+        "url": "https:\/\/eu4.fastcast4u.com\/proxy\/lancguma?mp=\/1",
+        "country": "Zimbabwe",
+        "countrycode": "ZW",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/i0.wp.com\/nehandaradio.com\/wp-content\/uploads\/2021\/01\/cropped-NehandaRadioFavicon-512x512-1.jpg?fit=192%2C192&ssl=1"
+    },
+    {
+        "name": "Star FM 89.7",
+        "url": "https:\/\/edge.iono.fm\/xice\/159_medium.aac",
+        "country": "Zimbabwe",
+        "countrycode": "ZW",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/www.starfm.co.zw\/favicon.ico"
+    },
+    {
+        "name": "Star FM 89.7",
+        "url": "https:\/\/edge.iono.fm\/xice\/159_medium.aac",
+        "country": "Zimbabwe",
+        "countrycode": "ZW",
+        "state": "Harare",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "AAC",
+        "language": "english,shona",
+        "favicon": "https:\/\/cdn-profiles.tunein.com\/s182260\/images\/logod.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Niue",
+        "countrycode": "NU",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "MaXXima",
+        "url": "http:\/\/maxxima.mine.nu:8000\/maxx.ogg",
+        "country": "Niue",
+        "countrycode": "NU",
+        "state": "",
+        "tags": "",
+        "bitrate": 700,
+        "codec": "OGG",
+        "language": "",
+        "favicon": ""
+    }
+]

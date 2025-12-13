@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Mozambique",
+        "countrycode": "MZ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Grandes Clássicos da Música Moçambicana ",
+        "url": "https:\/\/stream-177.zeno.fm\/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU3NZSDMwX0tRYnFqa0FHZXlTZjFRQSIsImlhdCI6MTc2NTU3MTI0NiwiZXhwIjoxNzY1NTcxMzA2fQ.L7peB8ScUOU4ecWVMpSJouEyJHbHi_lsgjypIGMI41A",
+        "country": "Mozambique",
+        "countrycode": "MZ",
+        "state": "",
+        "tags": "r&b\/urban",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Grandes Clássicos da Música Moçambicana ",
+        "url": "https:\/\/stream-177.zeno.fm\/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiek03eFhfb3VUZVNvYUJDY04xcmJzUSIsImlhdCI6MTc2NTU0MTAxMiwiZXhwIjoxNzY1NTQxMDcyfQ.9V2KoUETB3vvrCUh9LrMPuAnvND4Kyp9pD9OMhZhG6o",
+        "country": "Mozambique",
+        "countrycode": "MZ",
+        "state": "",
+        "tags": "international",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Rádio Cidade - Beira 105.2 FM",
+        "url": "https:\/\/node.stream-africa.com:8443\/RadioCidadeBeira",
+        "country": "Mozambique",
+        "countrycode": "MZ",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "portuguese",
+        "favicon": ""
+    },
+    {
+        "name": "Rádio Moçambique Antena Nacional",
+        "url": "https:\/\/node.stream-africa.com:8443\/AntenaNacional",
+        "country": "Mozambique",
+        "countrycode": "MZ",
+        "state": "",
+        "tags": "news",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "portuguese",
+        "favicon": ""
+    },
+    {
+        "name": "Super FM 101.9",
+        "url": "http:\/\/41.223.153.14:8000\/;stream\/1",
+        "country": "Mozambique",
+        "countrycode": "MZ",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/static.folhademaputo.co.mz\/images_sfm\/logo_superfm_108.png"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": " EXA FM: Pop music in Spanish and English",
+        "url": "https:\/\/27063.live.streamtheworld.com:443\/XHPSFMAAC.aac",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "spanish",
+        "favicon": "https:\/\/i.iheart.com\/v3\/re\/new_assets\/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "107.9 FM Da Vybe",
+        "url": "https:\/\/ice3.securenetsystems.net\/WLDV",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "",
+        "bitrate": 32,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Beach Bar Radio",
+        "url": "https:\/\/streaming.radio.co\/s23d2a636c\/listen",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "adult contemporary",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "american english",
+        "favicon": "https:\/\/beachbarstjohn.com\/wp-content\/uploads\/2021\/05\/the-beach-bar-logo-horizontal-fullcolor.png"
+    },
+    {
+        "name": "BRN Radio - Arabic Channel",
+        "url": "http:\/\/192.241.185.108:8094\/stream",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "Virginia",
+        "tags": "bible,christian",
+        "bitrate": 128,
+        "codec": "AAC+",
+        "language": "arabic",
+        "favicon": "http:\/\/brnradio.com\/favicon.ico"
+    },
+    {
+        "name": "Hiphop",
+        "url": "http:\/\/listen.181fm.com\/181-oldschool_128k.mp3",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "WSTX-AM 970 Christiansted",
+        "url": "http:\/\/wstxradio2.serverroom.net:8340\/;",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "calypso,caribbean music,christiansted,news,reggae,talk",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "WSTX-FM 100.3 Christiansted",
+        "url": "http:\/\/wstxradio.serverroom.net:7490\/;",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "christiansted,reggae",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "WTJX",
+        "url": "https:\/\/quarrel.streamguys1.com:7405\/wtjxfm",
+        "country": "US Virgin Islands",
+        "countrycode": "VI",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

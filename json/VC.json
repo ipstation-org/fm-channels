@@ -1,0 +1,38 @@
+[
+    {
+        "name": "BDS NICE RADIO SVG",
+        "url": "http:\/\/us1.carihost.com:8380\/stream",
+        "country": "Saint Vincent And The Grenadines",
+        "countrycode": "VC",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "http:\/\/www.niceradio.info\/images\/Nice_Logo_New.jpg"
+    },
+    {
+        "name": "Reggae141",
+        "url": "http:\/\/hestia2.cdnstream.com\/1301_128",
+        "country": "Saint Vincent And The Grenadines",
+        "countrycode": "VC",
+        "state": "",
+        "tags": "reggae",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "http:\/\/www.reggae141.com\/favicon.ico"
+    },
+    {
+        "name": "Star FM 98.3 & 104.7 Kingstown",
+        "url": "http:\/\/starradio.serverroom.net:6688\/",
+        "country": "Saint Vincent And The Grenadines",
+        "countrycode": "VC",
+        "state": "",
+        "tags": "caribbean music,commercial,kingstown,pop,united labour party",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    }
+]

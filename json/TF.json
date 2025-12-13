@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The French Southern Territories",
+        "countrycode": "TF",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Rire et chansons",
+        "url": "http:\/\/185.52.127.163\/fr\/30401\/mp3_128.mp3?origine=fluxurlradio&access_token=fa3688bf13bc4b0e928e612a5a957926",
+        "country": "The French Southern Territories",
+        "countrycode": "TF",
+        "state": "France",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/img.nrj.fr\/OImjPWH1tkT1NaUMPlxsY49g9BI=\/medias%2F2024%2F03%2Fvvscnx9i3yteabtkx8nlpdusmqj6uo8hshh9iphoit8_65fbfe026c3a5.png"
+    },
+    {
+        "name": "sensuelle radio",
+        "url": "https:\/\/radio10.pro-fhi.net\/radio\/9169\/stream.mp3",
+        "country": "The French Southern Territories",
+        "countrycode": "TF",
+        "state": "reunion",
+        "tags": "",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    }
+]

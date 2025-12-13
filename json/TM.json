@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Turkmenistan",
+        "countrycode": "TM",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Hayatmix",
+        "url": "http:\/\/hayatmix.net\/;yayin.mp3\/;",
+        "country": "Turkmenistan",
+        "countrycode": "TM",
+        "state": "Istanbul",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.hayatmix.com\/png\/hayatmix.png"
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https:\/\/qurango.net\/radio\/mahmoud_khalil_alhussary_warsh",
+        "country": "Turkmenistan",
+        "countrycode": "TM",
+        "state": "",
+        "tags": "islamic، classical",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": ""
+    },
+    {
+        "name": "Tv24",
+        "url": "https:\/\/turkmedya-live.ercdn.net\/tv24\/tv24_720p.m3u8",
+        "country": "Turkmenistan",
+        "countrycode": "TM",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "UNKNOWN",
+        "language": "turkish",
+        "favicon": "https:\/\/turkmedya.com.tr\/assets\/img\/favico.png"
+    },
+    {
+        "name": "Uğur Öztürk",
+        "url": "https:\/\/eu8.fastcast4u.com\/proxy\/ugur4129?mp=\/1",
+        "country": "Turkmenistan",
+        "countrycode": "TM",
+        "state": "kocaeli",
+        "tags": "greek folk music,türk halk müziği",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.turkuradyo.info\/public\/default\/images\/upload\/1776181619061079.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Sierra Leone",
+        "countrycode": "SL",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Choice FM 93.3",
+        "url": "http:\/\/stream-167.zeno.fm\/ct0gvk9149puv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdDBndms5MTQ5cHV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiamRDbmRaWFpSNHVwSGRvSXFhbzRZQSIsImlhdCI6MTc2NTU2NjU5NCwiZXhwIjoxNzY1NTY2NjU0fQ.WM8JTGJpSbAxPrhfrgqDlmko5S8AP60QR43Pe92c5X8",
+        "country": "Sierra Leone",
+        "countrycode": "SL",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/static.wixstatic.com\/media\/247284_502bcb35bb7d4262880f9ea7fa748868~mv2.jpg\/v1\/fill\/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01\/247284_502bcb35bb7d4262880f9ea7fa748868~mv2.jpg"
+    },
+    {
+        "name": "RADIO BINKONGOH",
+        "url": "http:\/\/cressida.shoutca.st:8079\/",
+        "country": "Sierra Leone",
+        "countrycode": "SL",
+        "state": "KONOLAND",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Sierra Network Radio",
+        "url": "http:\/\/45.79.181.148:8004\/;",
+        "country": "Sierra Leone",
+        "countrycode": "SL",
+        "state": "",
+        "tags": "african music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Sierra Network Radio",
+        "url": "http:\/\/45.79.181.148:8004\/;",
+        "country": "Sierra Leone",
+        "countrycode": "SL",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/cdn.onlineradiobox.com\/img\/l\/0\/47840.v6.png"
+    }
+]

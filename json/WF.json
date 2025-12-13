@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Wallis And Futuna",
+        "countrycode": "WF",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Wallis & Futuna 1",
+        "url": "https:\/\/wallisetfutuna.ice.infomaniak.ch\/wallisetfutuna-128.mp3",
+        "country": "Wallis And Futuna",
+        "countrycode": "WF",
+        "state": "",
+        "tags": "folk,news",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/la1ere.francetvinfo.fr\/favicon.png"
+    }
+]

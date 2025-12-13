@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Energy Broadcst Accouant",
+        "url": "https:\/\/sv2.famcast.co.za\/proxy\/energyfm?mp=\/stream",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Hot 102.7FM",
+        "url": "https:\/\/edge.iono.fm\/xice\/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken=",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "AAC",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Hot FM 87.7",
+        "url": "http:\/\/s2.yesstreaming.net:7091\/stream?type=.mp3%2F%3Bstream.mp3&_=1",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "lusaka",
+        "tags": "african music,zambian music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "One Love Radio",
+        "url": "https:\/\/usa11.fastcast4u.com\/proxy\/thidhzuy?mp=\/1&1745660099290",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Sun Fm Zambia",
+        "url": "http:\/\/11233.cloudrad.io:9102\/live",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "ThaBiggRadio",
+        "url": "http:\/\/stream-175.zeno.fm\/c17yxm6rrg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMTd5eG02cnJnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWC1XQ216YXFTRUd2RUh3WFpRV2MxQSIsImlhdCI6MTc2NTU1ODg3OCwiZXhwIjoxNzY1NTU4OTM4fQ.5VtQsnVyefPsfXi_-tsGGaOeOJF1ovLgsgfxzA_Gjnw",
+        "country": "Zambia",
+        "countrycode": "ZM",
+        "state": "",
+        "tags": "r&b\/urban",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

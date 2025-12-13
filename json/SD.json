@@ -1,0 +1,50 @@
+[
+    {
+        "name": "#Radio Quran",
+        "url": "http:\/\/n01.radiojar.com\/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmxJ8_sgAIUFkk9FTrsGjpA",
+        "country": "The Sudan",
+        "countrycode": "SD",
+        "state": "",
+        "tags": "classical",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Sudan",
+        "countrycode": "SD",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Dabanga Radio",
+        "url": "https:\/\/stream.dabangasudan.org\/",
+        "country": "The Sudan",
+        "countrycode": "SD",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.dabangasudan.org\/wp-content\/uploads\/2022\/12\/dabanga-logo-x2.png"
+    },
+    {
+        "name": "Dial Radio",
+        "url": "https:\/\/cast.dialradio.live\/stream.aac",
+        "country": "The Sudan",
+        "countrycode": "SD",
+        "state": "Nouvelle-Aquitaine",
+        "tags": "automated,collaborative,people's playlists",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "deutsch fränkisch,english,global",
+        "favicon": "https:\/\/dialradio.live\/favicon.ico"
+    }
+]

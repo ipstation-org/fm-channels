@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Papua New Guinea",
+        "countrycode": "PG",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "NauFM",
+        "url": "https:\/\/27163.live.streamtheworld.com\/NAUFM.mp3",
+        "country": "Papua New Guinea",
+        "countrycode": "PG",
+        "state": "",
+        "tags": "",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "NBC PNG",
+        "url": "https:\/\/stream-177.zeno.fm\/8dhz9ksa8f0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZGh6OWtzYThmMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZzdIUlFtVk5UbTZBeDR3QlQ1TVJ6USIsImlhdCI6MTc2NTU2NjI4NiwiZXhwIjoxNzY1NTY2MzQ2fQ.ZIZ36joax7HFT0bRe11j8ScHKt5a1Q5tIj7ZWRbP8mI",
+        "country": "Papua New Guinea",
+        "countrycode": "PG",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "YumiFM",
+        "url": "https:\/\/27163.live.streamtheworld.com\/YUMIFM.mp3",
+        "country": "Papua New Guinea",
+        "countrycode": "PG",
+        "state": "",
+        "tags": "",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/yumifm.net\/wp-content\/uploads\/2023\/08\/Yumi-FM-CORRECT-LOGO.png"
+    }
+]

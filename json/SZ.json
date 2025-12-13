@@ -1,0 +1,26 @@
+[
+    {
+        "name": "1.FM - Top Hits 2000",
+        "url": "http:\/\/185.33.21.112\/hits2000_128",
+        "country": "Eswatini",
+        "countrycode": "SZ",
+        "state": "",
+        "tags": "pop",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Eswatini",
+        "countrycode": "SZ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    }
+]
