@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Falkland Islands Malvinas",
+        "countrycode": "FK",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "BFBS Falklands",
+        "url": "https:\/\/listen-ssvcbfbs.sharp-stream.com\/ssvcbfbs6.aac",
+        "country": "The Falkland Islands Malvinas",
+        "countrycode": "FK",
+        "state": "stanley",
+        "tags": "bfbs,contemporary,contemporary music,military,speech,talk & speech",
+        "bitrate": 64,
+        "codec": "AAC+",
+        "language": "british english,english,english uk",
+        "favicon": "https:\/\/media.info\/l\/o\/5\/5.1647094643.png"
+    },
+    {
+        "name": "Falklands Radio",
+        "url": "http:\/\/streaming.broadcastradio.com:8330\/flklnd",
+        "country": "The Falkland Islands Malvinas",
+        "countrycode": "FK",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "Falklands Radio",
+        "url": "https:\/\/streaming.broadcastradio.com:8332\/flklnd?1721893143541=",
+        "country": "The Falkland Islands Malvinas",
+        "countrycode": "FK",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/api.broadcast.radio\/api\/image\/464937d5-67d8-42e7-886c-426239fa26dd.png?g=center"
+    },
+    {
+        "name": "Falklands Radio 530 Stanley",
+        "url": "https:\/\/streaming.broadcastradio.com:8332\/flklnd",
+        "country": "The Falkland Islands Malvinas",
+        "countrycode": "FK",
+        "state": "",
+        "tags": "bbc news,local news weather,music",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    }
+]

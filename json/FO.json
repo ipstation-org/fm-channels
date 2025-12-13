@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Faroe Islands",
+        "countrycode": "FO",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Kringvarp Føroya (KVF)",
+        "url": "http:\/\/netvarp.kringvarp.fo:443\/uvhm",
+        "country": "The Faroe Islands",
+        "countrycode": "FO",
+        "state": "",
+        "tags": "faroe islands,national,news,public service",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "faroese",
+        "favicon": ""
+    },
+    {
+        "name": "KVF - Tingvarp",
+        "url": "http:\/\/netvarp.kringvarp.fo:4443\/tingvarp",
+        "country": "The Faroe Islands",
+        "countrycode": "FO",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "KVF2",
+        "url": "http:\/\/netvarp.kringvarp.fo:4443\/kvf2_2",
+        "country": "The Faroe Islands",
+        "countrycode": "FO",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "faroese",
+        "favicon": ""
+    },
+    {
+        "name": "Rás 2",
+        "url": "http:\/\/stream.midlar.fo\/ras2",
+        "country": "The Faroe Islands",
+        "countrycode": "FO",
+        "state": "",
+        "tags": "faroe islands,rás 2,tónleikur",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "faroese",
+        "favicon": ""
+    },
+    {
+        "name": "VoxPop",
+        "url": "http:\/\/stream.midlar.fo\/voxpop",
+        "country": "The Faroe Islands",
+        "countrycode": "FO",
+        "state": "",
+        "tags": "faroe islands,tónleikur,voxpop",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "faroese",
+        "favicon": ""
+    }
+]

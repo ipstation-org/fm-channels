@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Dominica",
+        "countrycode": "DM",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "DBS Radio",
+        "url": "https:\/\/stream.dbcradio.net:8005\/live",
+        "country": "Dominica",
+        "countrycode": "DM",
+        "state": "Roseau",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/dbcradio.net\/wp-content\/uploads\/2024\/01\/dbs_web_logo_dark.png"
+    },
+    {
+        "name": "Dominica Catholic Radio",
+        "url": "https:\/\/cdn.comeseetv.com:8010\/dominicacatholicradio?1740579480509",
+        "country": "Dominica",
+        "countrycode": "DM",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/core3.imgix.net\/5f70e9d693e1e_5f5976e7b2916_Copy-of-Purple-Welcome-Church-Template---Made-with-PosterMyWall-_1_.png?auto=format,compress&w=480&fit=max&"
+    },
+    {
+        "name": "En Ba Mango",
+        "url": "https:\/\/s10.myradiostream.com\/:4212\/listen.mp3",
+        "country": "Dominica",
+        "countrycode": "DM",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "creole,english",
+        "favicon": ""
+    },
+    {
+        "name": "Fabulosa 96.7",
+        "url": "https:\/\/bostonstreaminge.net\/8006\/stream",
+        "country": "Dominica",
+        "countrycode": "DM",
+        "state": "",
+        "tags": "96.7,96.7 fm,music",
+        "bitrate": 128,
+        "codec": "AAC+",
+        "language": "spanish",
+        "favicon": ""
+    },
+    {
+        "name": "Voice of Life Radio",
+        "url": "https:\/\/cdn.comeseetv.com:8000\/vol",
+        "country": "Dominica",
+        "countrycode": "DM",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Alpha FM",
+        "url": "https:\/\/f100.fabricahost.com.br\/alphafm1021?f=1765533127N01KC8ZK4MM0KJ7EADS8V4WB7FM&tid=01KC8ZK4MM7T276AQXX4EFAY5B",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": "https:\/\/goiania.alphafm.com.br\/assets\/site\/v2\/images\/logo\/logo_novo.png"
+    },
+    {
+        "name": "BFBS Gibraltar",
+        "url": "http:\/\/edge-audio-03-gos2.sharp-stream.com\/ssvcbfbs7.mp3",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "british forces,pop",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "GBC Radio Gibraltar",
+        "url": "https:\/\/sh.uk.audio-stream.com\/proxy\/gibralta?mp=\/stream",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/www.gbc.gi\/favicons\/mstile-70x70.png"
+    },
+    {
+        "name": "Radio Gibraltar Plus 100.5",
+        "url": "https:\/\/s2.myradiostream.com\/:32910\/listen.mp3?nocache=1765544112",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.gbc.gi\/images\/radio\/radio-gibraltar-plus-fm-logo.png"
+    },
+    {
+        "name": "RadioGibraltar MW",
+        "url": "https:\/\/sh.uk.audio-stream.com\/proxy\/matorr00?mp=\/stream",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.gbc.gi\/images\/radio\/radio-gibraltar-logo.png"
+    },
+    {
+        "name": "RadioSeu",
+        "url": "https:\/\/streaming.enacast.com\/radiolaseu128.mp3",
+        "country": "Gibraltar",
+        "countrycode": "GI",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.radioseu.cat\/img\/logo-radioseu.jpg"
+    }
+]

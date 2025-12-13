@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Chérie FM",
+        "url": "http:\/\/cheriefmguyane.ice.infomaniak.ch\/cheriefmguyane-64.aac",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "pop,rock",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "chwitiweb",
+        "url": "https:\/\/listen.radioking.com\/radio\/190309\/stream\/232540",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "dub reggae,reggae,roots reggae,west indies",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/www.chwitiweb.com\/upload\/5c44efa98a0fe3.17228419.ico"
+    },
+    {
+        "name": "chwitiweb Cayenne",
+        "url": "https:\/\/listen.radioking.com\/radio\/190309\/stream\/232540",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "http:\/\/www.chwitiweb.com\/upload\/5c44efa98a0fe3.17228419.ico"
+    },
+    {
+        "name": "chwitiweb GF stream",
+        "url": "https:\/\/listen.radioking.com\/radio\/190309\/stream\/232540",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/chwitiweb.com\/upload\/5c44efa98a0fe3.17228419.ico"
+    },
+    {
+        "name": "Guyane 1ère",
+        "url": "https:\/\/guyane.ice.infomaniak.ch\/guyane-128.mp3",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "creole,french",
+        "favicon": "https:\/\/la1ere.francetvinfo.fr\/favicon.ico"
+    },
+    {
+        "name": "Métis FM",
+        "url": "https:\/\/str0.creacast.com\/metisfm.mp3",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/metis.fm\/uploads\/media\/metisfm\/logo_metis_50.jpg"
+    },
+    {
+        "name": "Nostalgie",
+        "url": "http:\/\/2stream.dyndns.org:8000\/nostalgieguy",
+        "country": "French Guiana",
+        "countrycode": "GF",
+        "state": "",
+        "tags": "kompa,retro,zouk",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "creole,french",
+        "favicon": "http:\/\/www.nostalgiedom.fr\/upload\/favicon.ico"
+    }
+]

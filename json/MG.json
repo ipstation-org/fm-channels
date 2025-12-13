@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "ESDES Radio",
+        "url": "https:\/\/esdesradio.netpro.tv\/listen\/esdes_radio\/radio.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "Antananarivo",
+        "tags": "educational,hits,jazz",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/www.esdesmada.com\/wp-content\/uploads\/2024\/11\/esdes-logo-80x80-1.png"
+    },
+    {
+        "name": "Hopefy Radio MG",
+        "url": "https:\/\/hopefy.fanantenanahoanao.org\/listen\/hopefy_radio_mg\/radio.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "christian,gospel,religious",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "malagasy",
+        "favicon": "https:\/\/hopefy.fanantenanahoanao.org\/static\/uploads\/album_art.1718582233.png"
+    },
+    {
+        "name": "NetPro.TV Radio",
+        "url": "https:\/\/radio.netpro.tv\/listen\/netpro_radio\/radio.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "Antananarivo",
+        "tags": "electro,news,pop,rap,rnb,top hits",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "english,french,malagasy",
+        "favicon": "https:\/\/app.netpro.tv\/assets\/apps\/user_506\/app_7327\/draft\/icon\/app_icon.png"
+    },
+    {
+        "name": "Paradisagasy",
+        "url": "https:\/\/stream.deevaradio.net:10443\/paradisagasy",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "malagasy",
+        "favicon": "http:\/\/www.radioparadisagasy.com\/img\/favicon-96x96.png"
+    },
+    {
+        "name": "Radio des jeunes (RDJ)",
+        "url": "http:\/\/rdj966.net:8000\/rdj966.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "96.6,antananarivo,rdj",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "malagasy,malgache",
+        "favicon": "https:\/\/becakgalon.com\/img\/begal-fiveicon.png"
+    },
+    {
+        "name": "Radio Don Bosco",
+        "url": "http:\/\/onair15.xdevel.com:9248\/;",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "catholic",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "RDJ",
+        "url": "http:\/\/rdj966.net:8000\/rdj966.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/becakgalon.com\/img\/begal-fiveicon.png"
+    },
+    {
+        "name": "RNA Madagascar",
+        "url": "http:\/\/drs-live-rna.gasy-internet.info:9001\/;",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "http:\/\/www.rna-madagascar.com\/favicon.ico"
+    },
+    {
+        "name": "Taratra",
+        "url": "http:\/\/41.188.43.211:8000\/taratraradio.mp3",
+        "country": "Madagascar",
+        "countrycode": "MG",
+        "state": "",
+        "tags": "",
+        "bitrate": 160,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

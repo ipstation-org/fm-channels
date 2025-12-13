@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Eritrea",
+        "countrycode": "ER",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Eritrean Music",
+        "url": "http:\/\/linuxfreelancer.com:8000\/test.mp3",
+        "country": "Eritrea",
+        "countrycode": "ER",
+        "state": "",
+        "tags": "amharic,tigrigna",
+        "bitrate": 56,
+        "codec": "AAC+",
+        "language": "amharic,tigre,tigrigna",
+        "favicon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/29\/Flag_of_Eritrea.svg\/800px-Flag_of_Eritrea.svg.png"
+    },
+    {
+        "name": "Eritrean\/Ethiopian music",
+        "url": "https:\/\/linuxfreelancer.com:8443\/test.mp3",
+        "country": "Eritrea",
+        "countrycode": "ER",
+        "state": "",
+        "tags": "",
+        "bitrate": 56,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": "https:\/\/en.wikipedia.org\/wiki\/File:Flag_of_Eritrea.svg"
+    },
+    {
+        "name": "hip hop ",
+        "url": "http:\/\/rtlberlin.streamabc.net\/rtlb-rnb-mp3-192-6826628?sABC=693p64q2%230%23s8389203o94019r3452q8r0757pr757p%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765565650",
+        "country": "Eritrea",
+        "countrycode": "ER",
+        "state": "",
+        "tags": "music",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "engilsh",
+        "favicon": "https:\/\/www.wix.com\/favicon.ico"
+    }
+]

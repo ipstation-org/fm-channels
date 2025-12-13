@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Best FM",
+        "url": "http:\/\/103.48.116.109:9000\/;",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "",
+        "tags": "music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/cdn.onlineradiobox.com\/img\/l\/3\/72103.v4.png"
+    },
+    {
+        "name": "Family Radio FM",
+        "url": "https:\/\/c2.radioboss.fm\/stream\/394",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "",
+        "tags": "talk",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "monoglian",
+        "favicon": "https:\/\/www.facebook.com\/favicon.ico"
+    },
+    {
+        "name": "MGL Radio",
+        "url": "http:\/\/stream17.shoutcastsolutions.com:8096\/",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "Ulaanbaatar",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "mongolian",
+        "favicon": ""
+    },
+    {
+        "name": "Mongolian Music Radio",
+        "url": "http:\/\/65.108.143.81:7700\/1",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "Web",
+        "tags": "electro,pop,rock,top 40",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "mongolian",
+        "favicon": "https:\/\/static2.mytuner.mobi\/media\/tvos_radios\/hgBdpd39Rk.png"
+    },
+    {
+        "name": "Гэр бүлийн радио 104.5",
+        "url": "https:\/\/c2.radioboss.fm\/stream\/394",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "",
+        "tags": "christian,community,culture",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "mongolian",
+        "favicon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRJc5-ql9EF8iTlZNwePtu7WkuZHhgyiCSp6A&s"
+    },
+    {
+        "name": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+        "url": "https:\/\/lhttp-hw.qtfm.cn\/live\/20973\/64k.mp3",
+        "country": "Mongolia",
+        "countrycode": "MN",
+        "state": "",
+        "tags": "culture",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "mongolian",
+        "favicon": "https:\/\/pic.qtfm.cn\/2015\/0324\/20150324134256614.jpg"
+    }
+]

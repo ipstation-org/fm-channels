@@ -1,0 +1,74 @@
+[
+    {
+        "name": "2dayFM 104.0 Suva",
+        "url": "http:\/\/peridot.streamguys.com:7150\/2Day",
+        "country": "Fiji",
+        "countrycode": "FJ",
+        "state": "",
+        "tags": "pop,suva,top 40",
+        "bitrate": 24,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": "http:\/\/2dayfm.fbc.com.fj\/admin-favicon.ico"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Fiji",
+        "countrycode": "FJ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Bula FM",
+        "url": "http:\/\/peridot.streamguys.com:7150\/Bula",
+        "country": "Fiji",
+        "countrycode": "FJ",
+        "state": "",
+        "tags": "fijian programming",
+        "bitrate": 24,
+        "codec": "AAC+",
+        "language": "fijian",
+        "favicon": "http:\/\/bulafm.fbc.com.fj\/admin-favicon.ico"
+    },
+    {
+        "name": "Fiji Gold FM 100.4 Suva",
+        "url": "http:\/\/peridot.streamguys.com:7150\/Gold",
+        "country": "Fiji",
+        "countrycode": "FJ",
+        "state": "",
+        "tags": "fiji,local news,pop,suva",
+        "bitrate": 24,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": "http:\/\/goldfm.fbc.com.fj\/admin-favicon.ico"
+    },
+    {
+        "name": "Radio Fiji One",
+        "url": "http:\/\/peridot.streamguys.com:7150\/RFOne",
+        "country": "Fiji",
+        "countrycode": "FJ",
+        "state": "",
+        "tags": "pacific island music",
+        "bitrate": 24,
+        "codec": "AAC+",
+        "language": "fijian",
+        "favicon": "http:\/\/rf1.fbc.com.fj\/admin-favicon.ico"
+    },
+    {
+        "name": "Radio Fiji Two",
+        "url": "http:\/\/peridot.streamguys.com:7150\/RFTwo",
+        "country": "Fiji",
+        "countrycode": "FJ",
+        "state": "",
+        "tags": "south asian music",
+        "bitrate": 24,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": "http:\/\/rf2.fbc.com.fj\/admin-favicon.ico"
+    }
+]
