@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Central African Republic",
+        "countrycode": "CF",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Mambokadzi DreamRadio",
+        "url": "https:\/\/cast3.asurahosting.com\/proxy\/dreamradio\/stream.mp3",
+        "country": "The Central African Republic",
+        "countrycode": "CF",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.mambokadzidreamradio.com\/sitepad-data\/uploads\/2023\/11\/Mambokadzi-DreamRadio-Logo.jpg"
+    },
+    {
+        "name": "Radio Ndeke Luka FM",
+        "url": "http:\/\/stream.radiondekeluka.org:8001\/ndekeluka",
+        "country": "The Central African Republic",
+        "countrycode": "CF",
+        "state": "",
+        "tags": "talk",
+        "bitrate": 28,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

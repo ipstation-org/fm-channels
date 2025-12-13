@@ -1,0 +1,98 @@
+[
+    {
+        "name": " EXA FM: Música pop em inglês e espanhol",
+        "url": "https:\/\/27063.live.streamtheworld.com:443\/XHPSFMAAC.aac",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "spanish",
+        "favicon": "https:\/\/i.iheart.com\/v3\/re\/new_assets\/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Absolute country ",
+        "url": "http:\/\/strm112.1.fm\/acountry_mobile_mp3",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "country",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "Absolute country ",
+        "url": "http:\/\/strm112.1.fm\/acountry_mobile_mp3",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "country",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "Ebnézer Rádio",
+        "url": "http:\/\/08.stmip.net:10028\/;;",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "religion",
+        "bitrate": 64,
+        "codec": "AAC+",
+        "language": "portuguese",
+        "favicon": ""
+    },
+    {
+        "name": "Powermix FM",
+        "url": "https:\/\/cast.iplayradio.net\/listen\/powermixfm\/stream",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "90s dance",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Rádio Fé Angola",
+        "url": "http:\/\/stream-176.zeno.fm\/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOW8yT2toemNRTVMyeV9QLWlqNGRNQSIsImlhdCI6MTc2NTU0NzcxOCwiZXhwIjoxNzY1NTQ3Nzc4fQ.Fxlga2axRTsu0xGa1CP2IMlT0-IIGseUGhXfoeUg878",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "Angola",
+        "tags": "religião",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "portuguese",
+        "favicon": "https:\/\/zeno.fm\/favicon.ico"
+    },
+    {
+        "name": "Rádio MFM Angola",
+        "url": "https:\/\/centova87.instainternet.com\/proxy\/mfm?mp=\/stream",
+        "country": "Angola",
+        "countrycode": "AO",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

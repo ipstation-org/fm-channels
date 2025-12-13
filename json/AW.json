@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "https:\/\/mp3islam.com\/favicon.ico"
+    },
+    {
+        "name": "Bo Guia 88.9 FM",
+        "url": "http:\/\/whooshserver.net:9880\/live",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/boguiafm.com\/bo%20guia%20trans.png"
+    },
+    {
+        "name": "Canal90 FM",
+        "url": "https:\/\/c25.radioboss.fm:8187\/live",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/canal90fm.aw\/favicon.ico"
+    },
+    {
+        "name": "Fresh FM 1043",
+        "url": "http:\/\/www.coolaruba.com:8006\/stream\/;",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/webradiodirectory.com\/wp-content\/uploads\/2021\/01\/5b5c664d518942fc7bdfdff0ed74de52.jpg"
+    },
+    {
+        "name": "Magic 96.5 - Oranjestad",
+        "url": "http:\/\/158.69.114.190:8072\/;",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "latin music,oranjestad,pop,top 40",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "papiamentu",
+        "favicon": ""
+    },
+    {
+        "name": "Massive Arub",
+        "url": "http:\/\/surilive.com:8350\/",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "San Nicolas",
+        "tags": "",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "Massive Aruba",
+        "url": "http:\/\/surilive.com:8350\/",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "San Nicolas",
+        "tags": "calypso,caribbean,caribbean music,carnaval,dancehall,gospel,r&b,r&b soul,soca",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "caribbean english,dutch,english,español - latinoamerica,papiamentu",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Tropical Aruba",
+        "url": "https:\/\/live9.livemus.com.br:27282\/;",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "San Nicolas",
+        "tags": "adult contemporary,gospel,local programming,merengue,music variety,musica latina,musica variada,oldies,ritmo kombina,salsa,top 40",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "dutch,english,papiamentu,portuguese,spanish",
+        "favicon": "https:\/\/media-hosting.imagekit.io\/\/c2671132eda24eb0\/logoatualizadatropicalaruba-copiarPrancheta-2 (1).png?Expires=1835295580&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TnMtpA6gO3nITkYtENJTnoI5qgVCitQ8Dqwp1GRcZ-TgTj8BQNE59OXYV50HcjvW8d6TqF4k~KA~nJEXrMKGCURyAN2JbztoXPQK1ENWDacoGIxiE0cg0ClZqkVcam51JtsxEkZZdZJ4ww0KRyJeLA0jW~HHN7UDsNK6IHdUHzMwlBuj6TwcmcwIwNNsEhQ6Vk5g1QQMeq0YvEm~oP71lHdooEaD1jncXweX5UUfSnloYIk-QAZyTjXFPFgSAhfhKTfW-906-~-7LU-Pl7-xdwAQF9JBAeXMrS-sJdnpewxWfCjK1SDUDfBjBm9hnTiGmke3mx2knne7jvQHL3VcmQ__"
+    },
+    {
+        "name": "Top95 FM",
+        "url": "",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "",
+        "language": "",
+        "favicon": "http:\/\/www.top95fm.aw\/listenlive.png"
+    },
+    {
+        "name": "yhju",
+        "url": "http:\/\/52.0.120.216:8000\/stream\/4\/",
+        "country": "Aruba",
+        "countrycode": "AW",
+        "state": "",
+        "tags": "music trance",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "anq",
+        "favicon": ""
+    }
+]

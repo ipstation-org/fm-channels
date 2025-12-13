@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Anguilla",
+        "countrycode": "AI",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Klass FM 92.9",
+        "url": "http:\/\/klassfm929.radioca.st:8165\/stream",
+        "country": "Anguilla",
+        "countrycode": "AI",
+        "state": "",
+        "tags": "",
+        "bitrate": 48,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Klass FM 92.9",
+        "url": "https:\/\/klassfm929.radioca.st\/;",
+        "country": "Anguilla",
+        "countrycode": "AI",
+        "state": "",
+        "tags": "",
+        "bitrate": 48,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/klass929.com\/wp-content\/uploads\/2020\/01\/headerlogo.png"
+    },
+    {
+        "name": "PJD2 102.7 FM Sint Maarten",
+        "url": "http:\/\/142.4.219.8:8181\/",
+        "country": "Anguilla",
+        "countrycode": "AI",
+        "state": "",
+        "tags": "philipsburg,pop,rock,soft,world",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "anguilla,english,sint maarten",
+        "favicon": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/radiogalaxy-580f4.appspot.com\/o\/images%2FIMG_20240710_225347764.jpg?alt=media&token=be5277fc-cbfa-4ff8-a3db-1b338621a001"
+    },
+    {
+        "name": "Sun 91.1",
+        "url": "http:\/\/listen.digital-origin.com:8005\/",
+        "country": "Anguilla",
+        "countrycode": "AI",
+        "state": "",
+        "tags": "pop,rock,soft,top 40",
+        "bitrate": 112,
+        "codec": "MP3",
+        "language": "anguilla",
+        "favicon": "null"
+    },
+    {
+        "name": "WRNO-HD2 Throwback 96.3 FM",
+        "url": "http:\/\/cloud.revma.ihrhls.com\/zc5873?rj-org=n3eb-e2&rj-ttl=5&rj-tok=AAABmxOqS_AAxSE4LWff_hx1Fw",
+        "country": "Anguilla",
+        "countrycode": "AI",
+        "state": "",
+        "tags": "00s,90s,classic hits,rnb,spanish,throwback",
+        "bitrate": 0,
+        "codec": "AAC",
+        "language": "new orleans louisiana,spanish",
+        "favicon": "null"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": " EXA FM: Pop Music in Spanish and English",
+        "url": "https:\/\/23103.live.streamtheworld.com:443\/XHPSFMAAC.aac",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "english,music,news,pop,spanish",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": "https:\/\/i.ibb.co\/fG1gxdB\/Exa-FM-Veracruz.webp"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Antigua Observer Radio 91.1 St. John's",
+        "url": "http:\/\/s8.voscast.com:8176\/;",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "talk",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "DNECA Anglican Radio",
+        "url": "http:\/\/64.18.108.237:1300\/broadwave.mp3?src=1",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/gtsantigua.com\/radio\/DNECA_20Radio_20Logo.png?v=45azdc5zzca1v3b"
+    },
+    {
+        "name": "Flava FM 100.7",
+        "url": "http:\/\/167.114.11.80:5322\/stream\/;",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": "https:\/\/static.wixstatic.com\/media\/fef281_95a788d2549b4134957a9efc21a5dcac~mv2.png\/v1\/fill\/w_523,h_423,al_c,q_85,usm_0.66_1.00_0.01,enc_auto\/FLAVA_LOGO_FREQ.png"
+    },
+    {
+        "name": "Radio La Senda Antigua",
+        "url": "https:\/\/play10.tikast.com\/proxy\/lasenda?mp=\/stream",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.iglesialasendaantigua.com\/img\/logo.5f155fc3.png"
+    },
+    {
+        "name": "Vibz FM",
+        "url": "https:\/\/testvibz-silcomwireless.radioca.st\/stream.mp3",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Zoom Radio 95.7 St. John's",
+        "url": "",
+        "country": "Antigua And Barbuda",
+        "countrycode": "AG",
+        "state": "",
+        "tags": "jazz,rnb,soul",
+        "bitrate": 0,
+        "codec": "",
+        "language": "english",
+        "favicon": ""
+    }
+]

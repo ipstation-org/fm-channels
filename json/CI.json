@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Africa Radio Abidjan",
+        "url": "https:\/\/africaradio.ice.infomaniak.ch\/abidjan128.mp3",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "african,news,pop",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Afrobeat international",
+        "url": "https:\/\/listen.radioking.com\/radio\/397789\/stream\/449770",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "afrobeat",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Life radio Côte d’Ivoire",
+        "url": "https:\/\/cast4.asurahosting.com\/proxy\/life\/stream",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "african pop,afropop",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Jam",
+        "url": "https:\/\/listen.radioking.com\/radio\/61201\/stream\/98566",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "african music,folk music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Maria Ivory Coast",
+        "url": "https:\/\/dreamsiteradiocp6.com\/proxy\/rmcosta?mp=\/stream",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": "https:\/\/www.radiomaria.ci\/wp-content\/uploads\/2016\/09\/per-itunes.jpg"
+    },
+    {
+        "name": "Skyrock Abidjan",
+        "url": "https:\/\/icecast.skyrock.net\/s\/abidjan_aac_64k",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "african pop,afrobeat,rock",
+        "bitrate": 128,
+        "codec": "AAC",
+        "language": "french",
+        "favicon": ""
+    },
+    {
+        "name": "Trace FM Côte d’Ivoire",
+        "url": "http:\/\/stream.trace.tv\/trace_fm_ci-midfi.aac",
+        "country": "Coted Ivoire",
+        "countrycode": "CI",
+        "state": "",
+        "tags": "african music,hiphop",
+        "bitrate": 256,
+        "codec": "AAC+",
+        "language": "french",
+        "favicon": "https:\/\/trace.ci\/wp-content\/uploads\/2019\/11\/cropped-cropped-favicon-100x100.png"
+    }
+]

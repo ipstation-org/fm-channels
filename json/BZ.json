@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Belize",
+        "countrycode": "BZ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Darkwaveradio",
+        "url": "https:\/\/live.webhosting4u.gr:1185\/stream",
+        "country": "Belize",
+        "countrycode": "BZ",
+        "state": "Belize City",
+        "tags": "aggrotech,avant-garde,cold wave,dark ambient,dark cabaret,darkwave,deathrock,ebm,ethereal wave,futurepop,gothic rock,idm,industrial,japanoise,martial industrial,minimal wave,neofolk,new wave,noise,post-punk,retrowave,southern gothic,synthwave,underground,witch house",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/i1.sndcdn.com\/avatars-000273480240-i2y6j9-t250x250.jpg"
+    },
+    {
+        "name": "https:\/\/stream.svobodnoe.media\/freemp3",
+        "url": "https:\/\/stream.svobodnoe.media\/freemp3",
+        "country": "Belize",
+        "countrycode": "BZ",
+        "state": "",
+        "tags": "",
+        "bitrate": 256,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Krem Radio",
+        "url": "http:\/\/159.65.32.199:8016\/;",
+        "country": "Belize",
+        "countrycode": "BZ",
+        "state": "",
+        "tags": "music,talk",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/i0.wp.com\/www.krembz.com\/wp-content\/uploads\/2023\/04\/cropped-favicon.png?fit=180%2c180&#038;ssl=1"
+    },
+    {
+        "name": "Love FM",
+        "url": "https:\/\/s1.voscast.com:10243\/lovefm",
+        "country": "Belize",
+        "countrycode": "BZ",
+        "state": "",
+        "tags": "misc",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Love FM (Belize)",
+        "url": "https:\/\/s1.voscast.com:10243\/lovefm",
+        "country": "Belize",
+        "countrycode": "BZ",
+        "state": "Belize City",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/lovefm.com\/wp-content\/uploads\/2023\/05\/cropped-lovefm-coverart-180x180.png"
+    }
+]

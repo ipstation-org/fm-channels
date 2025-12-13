@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Cook Islands",
+        "countrycode": "CK",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Matariki FM 99.9 Matavera",
+        "url": "http:\/\/amber.streamguys.com:4070\/;",
+        "country": "The Cook Islands",
+        "countrycode": "CK",
+        "state": "",
+        "tags": "matavera,pacific island music,pop,website down - twitter page only",
+        "bitrate": 50,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/abs.twimg.com\/favicons\/twitter.2.ico"
+    }
+]

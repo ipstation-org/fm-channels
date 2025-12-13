@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "ABK Radio 89.9 Douala",
+        "url": "http:\/\/46.105.111.94:8077\/;",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "state": "",
+        "tags": "african music,talk",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/cdn-profiles.tunein.com\/s211516\/images\/logod.png?t=637213775400000000"
+    },
+    {
+        "name": "Balla Radio",
+        "url": "http:\/\/167.114.11.79:5730\/;stream\/1",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "state": "",
+        "tags": "african music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english,french",
+        "favicon": "https:\/\/www.radio.net\/images\/broadcasts\/66\/61\/27507\/c300.png"
+    },
+    {
+        "name": "CRTV Radio",
+        "url": "https:\/\/listen.radioking.com\/radio\/39218\/stream\/75659",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "state": "",
+        "tags": "music,news",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/radioenlignefrance.com\/storage\/radios\/6885\/8855\/conversions\/DkvJakmCUOOuVMaiESwrtRtXbTOkl6-metaQ1JUVi1SYWRpby5qcGc=--lg.webp"
+    },
+    {
+        "name": "Equinoxe Radio",
+        "url": "https:\/\/listen.radioking.com\/radio\/39218\/stream\/76118",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "state": "",
+        "tags": "electronic",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    }
+]

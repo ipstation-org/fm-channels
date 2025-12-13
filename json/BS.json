@@ -1,0 +1,110 @@
+[
+    {
+        "name": "103 The Beat",
+        "url": "http:\/\/n11.radiojar.com\/01d8c449cyduv?rj-ttl=5&rj-tok=AAABmxIQIXIAFXS5hGWbJya5UA",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "New Providence, Nassau",
+        "tags": "pop",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/103beat.com\/wp-content\/uploads\/2019\/05\/103thebeat-700x700.jpeg"
+    },
+    {
+        "name": "96.9 FM GuardianRadio",
+        "url": "https:\/\/radiostreams.streamcomedia.com:8000\/969guardianradio",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "Nassau",
+        "tags": "",
+        "bitrate": 82,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/guardiantalkradio.com\/wp-content\/themes\/guardianradio\/images\/logo_site1.png"
+    },
+    {
+        "name": "96.9FM GuardianRadio",
+        "url": "https:\/\/radiostreams.streamcomedia.com:8000\/969guardianradio",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "",
+        "bitrate": 82,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/guardiantalkradio.com\/wp-content\/themes\/guardianradio\/images\/logo_site1.png"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Bahamian or Nuttin",
+        "url": "https:\/\/s2.reliastream.com\/proxy\/rumcayme?mp=\/stream",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "caribbean,junkanoo",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/img1.wsimg.com\/isteam\/ip\/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31\/favicon\/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png\/:\/rs=w:64,h:64,m"
+    },
+    {
+        "name": "Bahamianor Nuttin 92.5 FM",
+        "url": "https:\/\/s2.reliastream.com\/proxy\/rumcayme?mp=\/stream",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "caribbean,junkanoo",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/img1.wsimg.com\/isteam\/ip\/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31\/favicon\/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png\/:\/rs=w:64,h:64,m"
+    },
+    {
+        "name": "Global 99.5 FM",
+        "url": "http:\/\/ice64.securenetsystems.net\/GLOBALBS",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "",
+        "bitrate": 32,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": "https:\/\/cdn-radiotime-logos.tunein.com\/s206590q.png"
+    },
+    {
+        "name": "LCLHST R1",
+        "url": "http:\/\/s1.radio.lclhst.net:1437\/r1",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "electro sets,electronic,minimal,techno",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "LCLHST R2",
+        "url": "http:\/\/s1.radio.lclhst.net:1437\/r2",
+        "country": "The Bahamas",
+        "countrycode": "BS",
+        "state": "",
+        "tags": "electro sets,electronic,minimal,techno",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    }
+]

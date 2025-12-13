@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Benin",
+        "countrycode": "BJ",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "DIMusic Trance Club  🇧🇯 ",
+        "url": "http:\/\/stream1.dimusic.club:11534\/rw?type=.aac",
+        "country": "Benin",
+        "countrycode": "BJ",
+        "state": "",
+        "tags": "dance,electro,trance",
+        "bitrate": 64,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/radiogalaxy-580f4.appspot.com\/o\/images%2FIMG_20240605_205404475.jpg?alt=media&token=7e00c4a6-0db7-4d46-a07f-986ccc98b821"
+    },
+    {
+        "name": "ORTB Radio Bénin",
+        "url": "https:\/\/listen.radioking.com\/radio\/47608\/stream\/84430",
+        "country": "Benin",
+        "countrycode": "BJ",
+        "state": "",
+        "tags": "news",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/srtb.bj\/wp-content\/uploads\/2024\/08\/BANNIERE-SITE-RADIO-BENIN-mod.jpg"
+    },
+    {
+        "name": "ORTB Radio Parakou",
+        "url": "https:\/\/listen.radioking.com\/radio\/51919\/stream\/88927",
+        "country": "Benin",
+        "countrycode": "BJ",
+        "state": "",
+        "tags": "music,news",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/srtb.bj\/wp-content\/uploads\/2024\/07\/BANNIERE-SITE-RADIO-PARAKOU.jpg"
+    },
+    {
+        "name": "Radio Cotonou 94.3",
+        "url": "https:\/\/stream-176.zeno.fm\/o9bspgm4y78vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvOWJzcGdtNHk3OHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRFc1VG9YN3lTY3VMb19vMjlpcGl3ZyIsImlhdCI6MTc2NTU4NzY4OSwiZXhwIjoxNzY1NTg3NzQ5fQ.MVhHHxBeFhQKUz6nbqy86pgYDqNc7AsSp3Jk7PlWhUU",
+        "country": "Benin",
+        "countrycode": "BJ",
+        "state": "",
+        "tags": "african music,general",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "french",
+        "favicon": "https:\/\/www.facebook.com\/favicon.ico"
+    }
+]

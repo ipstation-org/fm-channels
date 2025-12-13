@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Burundi",
+        "countrycode": "BI",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Heaven FM Radio (Burundi)",
+        "url": "http:\/\/stream-176.zeno.fm\/eequgfw72hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZXF1Z2Z3NzJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQmpKTXUteURST2FPMTIzNlptMzJlQSIsImlhdCI6MTc2NTU4MTUxNiwiZXhwIjoxNzY1NTgxNTc2fQ.cMs8qe92fOrmGdI3SzWmaR6Vpy64REv6oHaHjZfXmWc",
+        "country": "Burundi",
+        "countrycode": "BI",
+        "state": "Bujumbula",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "RADIO MARIA BURUNDI",
+        "url": "http:\/\/dreamsiteradiocp.com:8058\/stream",
+        "country": "Burundi",
+        "countrycode": "BI",
+        "state": "",
+        "tags": "catholic,catholic radio,christian,religion,religious,talk",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Maria Burundi",
+        "url": "http:\/\/57.129.49.167:8082\/stream",
+        "country": "Burundi",
+        "countrycode": "BI",
+        "state": "",
+        "tags": "",
+        "bitrate": 32,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Congo",
+        "countrycode": "CG",
+        "state": "",
+        "tags": "islamic",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Radio Maria Democratic Rep. Congo",
+        "url": "https:\/\/dreamsiteradiocp2.com\/proxy\/rmrepdemcongo?mp=\/stream",
+        "country": "The Congo",
+        "countrycode": "CG",
+        "state": "",
+        "tags": "",
+        "bitrate": 64,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": ""
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "https:\/\/mp3islam.com\/favicon.ico"
+    },
+    {
+        "name": "Andorra Musica 97.0 MHz FM (CDN)",
+        "url": "",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "Andorra La Vella",
+        "tags": "adult rock,pop,pop rock",
+        "bitrate": 0,
+        "codec": "",
+        "language": "catalan,english,spanish",
+        "favicon": ""
+    },
+    {
+        "name": "Exa FM",
+        "url": "https:\/\/27063.live.streamtheworld.com:443\/XHPSFMAAC.aac",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "spanish",
+        "favicon": "https:\/\/i.iheart.com\/v3\/re\/new_assets\/5f9883c7cde5eff19e6eabac"
+    },
+    {
+        "name": "Radio Nacional d'Andorra 91.4 MHz FM (CDN)",
+        "url": "",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "Andorra La Vella",
+        "tags": "information,local information,local news,news,pop,talk",
+        "bitrate": 0,
+        "codec": "",
+        "language": "catalan,spanish",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Polignano Web",
+        "url": "https:\/\/sp3.server89.com:7018\/",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "italian",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Polignano Web",
+        "url": "https:\/\/sp3.server89.com:7018\/",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "italian",
+        "favicon": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/radiogalaxy-580f4.appspot.com\/o\/images%2FIMG_20240118_121338383.jpg?alt=media&token=a4b228ef-15c9-4e25-bc90-aca1bf9bb30c"
+    },
+    {
+        "name": "Radio Polignano Web",
+        "url": "https:\/\/sp3.server89.com:7018\/",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "italian",
+        "favicon": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/radiogalaxy-580f4.appspot.com\/o\/images%2FIMG_20240118_121521411.jpg?alt=media&token=81e90edb-f652-4d7f-8c7a-d46e675b0c68"
+    },
+    {
+        "name": "RadioSoleLuna",
+        "url": "https:\/\/cast3.server89.com\/radio\/8040\/radio.mp3",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "music",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "italian",
+        "favicon": ""
+    },
+    {
+        "name": "tch",
+        "url": "http:\/\/stream-145.zeno.fm\/bwrw9xcgqeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJid3J3OXhjZ3FlcnV2IiwiaG9zdCI6InN0cmVhbS0xNDUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMGJhOTE1MjVRWGVXazc2dHVKT1EtUSIsImlhdCI6MTc2NTU3NjM2MywiZXhwIjoxNzY1NTc2NDIzfQ.60ldGbDx3ytAvpfYDv7fYp_BMUanjEaV0LnfMBC-SKo",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "classical",
+        "bitrate": 0,
+        "codec": "AAC",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "toker fm",
+        "url": "https:\/\/live.toker.fm:6060\/;",
+        "country": "Andorra",
+        "countrycode": "AD",
+        "state": "",
+        "tags": "religious",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "hebrew",
+        "favicon": "null"
+    }
+]

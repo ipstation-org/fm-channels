@@ -1,0 +1,26 @@
+[
+    {
+        "name": " EXA FM: Popmusik på engelska och spanska",
+        "url": "https:\/\/23103.live.streamtheworld.com:443\/XHPSFMAAC.aac",
+        "country": "Aland Islands",
+        "countrycode": "AX",
+        "state": "Veracruz, México",
+        "tags": "moi merino,åland islands",
+        "bitrate": 48,
+        "codec": "AAC+",
+        "language": "spanish",
+        "favicon": "https:\/\/cdn-profiles.tunein.com\/s90984\/images\/logog.png"
+    },
+    {
+        "name": "Ålands Radio",
+        "url": "https:\/\/stream.alandsradio.ax\/stream.ogg",
+        "country": "Aland Islands",
+        "countrycode": "AX",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "OGG",
+        "language": "swedish",
+        "favicon": "https:\/\/alandsradio.ax\/sites\/default\/files\/favicon_artv.ico"
+    }
+]
