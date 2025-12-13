@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "British Indian Ocean Territory",
+        "countrycode": "IO",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Tick Tock Radio - 1992",
+        "url": "https:\/\/nl4.mystreaming.net:443\/tt\/1992\/icecast.audio",
+        "country": "British Indian Ocean Territory",
+        "countrycode": "IO",
+        "state": "Pangea",
+        "tags": "music,oldies",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/ticktock.radio\/static\/assets\/img\/apple-icon-120x120.png"
+    },
+    {
+        "name": "Tick Tock Radio - 1993",
+        "url": "https:\/\/2.mystreaming.net:443\/tt\/1993\/icecast.audio",
+        "country": "British Indian Ocean Territory",
+        "countrycode": "IO",
+        "state": "Pangea",
+        "tags": "music",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/ticktock.radio\/static\/assets\/img\/apple-icon-120x120.png"
+    },
+    {
+        "name": "Tick Tock Radio - 1994",
+        "url": "https:\/\/2.mystreaming.net:443\/tt\/1994\/icecast.audio",
+        "country": "British Indian Ocean Territory",
+        "countrycode": "IO",
+        "state": "Pangea",
+        "tags": "music,oldies",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/ticktock.radio\/static\/assets\/img\/apple-icon-120x120.png"
+    },
+    {
+        "name": "Tick Tock Radio - 2022",
+        "url": "https:\/\/nl4.mystreaming.net:443\/tt\/2022\/icecast.audio",
+        "country": "British Indian Ocean Territory",
+        "countrycode": "IO",
+        "state": "Pangea",
+        "tags": "music",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": "https:\/\/ticktock.radio\/static\/assets\/img\/apple-icon-120x120.png"
+    },
+    {
+        "name": "Підсунути свиню",
+        "url": "https:\/\/stream-165.zeno.fm\/u5enyd4c28quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NWVueWQ0YzI4cXV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVG9zX0pheHdUbks5WUluSUZpRl9MUSIsImlhdCI6MTc2NTUzNDkzOCwiZXhwIjoxNzY1NTM0OTk4fQ.qjK4xQ9BbxKQLR-Ml_Kc0ZYwZGTe4OSi4jFD-pz3Bu0",
+        "country": "British Indian Ocean Territory",
+        "countrycode": "IO",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "english,spanish",
+        "favicon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/56\/Donald_Trump_official_portrait.jpg"
+    }
+]

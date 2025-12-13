@@ -1,0 +1,74 @@
+[
+    {
+        "name": "104.3 Boss FM",
+        "url": "https:\/\/ice10.securenetsystems.net\/KIJI",
+        "country": "Guam",
+        "countrycode": "GU",
+        "state": "",
+        "tags": "",
+        "bitrate": 32,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Guam",
+        "countrycode": "GU",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Harvest Family Radio Guam",
+        "url": "https:\/\/das-edge17-live365-dal02.cdnstream.com\/a11295",
+        "country": "Guam",
+        "countrycode": "GU",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/khmg.org\/wp-content\/uploads\/logo_330.png"
+    },
+    {
+        "name": "I Want TFC - GMA News TV HD",
+        "url": "https:\/\/stream.gmanews.tv\/ioslive\/livestream\/playlist.m3u8",
+        "country": "Guam",
+        "countrycode": "GU",
+        "state": "Hagåtña",
+        "tags": "world news",
+        "bitrate": 320,
+        "codec": "AAC",
+        "language": "",
+        "favicon": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/c\/c1\/IWantTFClogo.png\/revision\/latest?cb=20200905145154"
+    },
+    {
+        "name": "KUSG",
+        "url": "https:\/\/ice10.securenetsystems.net\/KUSG",
+        "country": "Guam",
+        "countrycode": "GU",
+        "state": "",
+        "tags": "news,talk",
+        "bitrate": 32,
+        "codec": "AAC+",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "TFC Guam",
+        "url": "https:\/\/tfcguam-abscbn-ono.amagi.tv\/index.m3u8",
+        "country": "Guam",
+        "countrycode": "GU",
+        "state": "",
+        "tags": "filipino",
+        "bitrate": 1872,
+        "codec": "AAC",
+        "language": "",
+        "favicon": ""
+    }
+]

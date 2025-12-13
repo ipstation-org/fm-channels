@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Guadeloupe",
+        "countrycode": "GP",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Guadeloupe 1ère",
+        "url": "https:\/\/guadeloupe.ice.infomaniak.ch\/guadeloupe-128.mp3",
+        "country": "Guadeloupe",
+        "countrycode": "GP",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/la1ere.francetvinfo.fr\/favicon.ico"
+    },
+    {
+        "name": "Radio Sofaia Altitude",
+        "url": "https:\/\/radiosofaia.ice.infomaniak.ch\/radiosofaia-high.aac",
+        "country": "Guadeloupe",
+        "countrycode": "GP",
+        "state": "",
+        "tags": "",
+        "bitrate": 64,
+        "codec": "AAC+",
+        "language": "creole,french",
+        "favicon": "https:\/\/www.radio-sofaia-altitude.com\/upload\/51bf0534b8eaa1.96289316.ico"
+    }
+]

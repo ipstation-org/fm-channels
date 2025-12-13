@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Isle Of Man",
+        "countrycode": "IM",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+        "url": "http:\/\/alive.stream.laut.fm\/alive?t302=2025-12-12_05-30-12&uuid=34dce8c8-03e4-4414-a14c-ba1e30a5a681",
+        "country": "Isle Of Man",
+        "countrycode": "IM",
+        "state": "",
+        "tags": "blues rock,classic rock,live concert,rock",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "english",
+        "favicon": ""
+    },
+    {
+        "name": "EnergyFM",
+        "url": "https:\/\/ukwesta.streaming.broadcast.radio\/energyfm",
+        "country": "Isle Of Man",
+        "countrycode": "IM",
+        "state": "",
+        "tags": "",
+        "bitrate": 256,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/www.energyfm.net\/images2015\/logo.png"
+    },
+    {
+        "name": "Manx Radio FM",
+        "url": "http:\/\/edge-audio-05-gos2.sharp-stream.com\/manxradiofm.aac?",
+        "country": "Isle Of Man",
+        "countrycode": "IM",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "AAC+",
+        "language": "english,manx",
+        "favicon": "https:\/\/platform.aiircdn.com\/sitelogos\/147-T9L9fKDrZLR6Boqmmu5h.png"
+    }
+]

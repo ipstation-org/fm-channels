@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Coldstar Online,ColdStar.Online Radio (Low quality)",
+        "url": "https:\/\/ice.coldstar.online\/low.mp3",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "deep,house,psy,tech,trance",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/coldstar.online\/static\/assets\/android-chrome-512x512.png"
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https:\/\/qurango.net\/radio\/mahmoud_khalil_alhussary_warsh",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "islamic، classical",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Биринчи Radio",
+        "url": "https:\/\/liveradio.utrk.kg\/1radio",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "kyrgyz",
+        "favicon": "http:\/\/www.ktrk.kg\/favicon.ico"
+    },
+    {
+        "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+        "url": "https:\/\/cdn.radioplayer.kg:8443\/obondoru64",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "",
+        "bitrate": 56,
+        "codec": "AAC",
+        "language": "kyrgyz",
+        "favicon": "https:\/\/obondoru.kg\/wp-content\/uploads\/2022\/08\/cropped-logo_png-600-180x180.png"
+    },
+    {
+        "name": "Радио Тумар FM (Radio Tumar FM)",
+        "url": "https:\/\/radio.tumar.fm:8005\/stream",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "kyrgyz",
+        "favicon": ""
+    },
+    {
+        "name": "Сүйүнчү FM (Suiunchu FM)",
+        "url": "https:\/\/cdn.radioplayer.kg:8443\/suiunchu64",
+        "country": "Kyrgyzstan",
+        "countrycode": "KG",
+        "state": "",
+        "tags": "",
+        "bitrate": 56,
+        "codec": "AAC",
+        "language": "kyrgyz",
+        "favicon": ""
+    }
+]

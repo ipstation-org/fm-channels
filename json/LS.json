@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Lesotho",
+        "countrycode": "LS",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Radio Maria Lesotho",
+        "url": "https:\/\/dreamsiteradiocp5.com\/proxy\/rmlesotho?mp=\/stream",
+        "country": "Lesotho",
+        "countrycode": "LS",
+        "state": "",
+        "tags": "",
+        "bitrate": 64,
+        "codec": "AAC+",
+        "language": "",
+        "favicon": "https:\/\/dreamsiteradioplayer.it\/wf\/wflesotho\/tmp\/images\/default.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Lao Peoples Democratic Republic",
+        "countrycode": "LA",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Lao National Radio 103.7",
+        "url": "https:\/\/radio.lnr.org.la\/fm103",
+        "country": "The Lao Peoples Democratic Republic",
+        "countrycode": "LA",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/lnr.org.la\/wp-content\/uploads\/2021\/02\/Radio-Logo-lnr01-300x300.png"
+    },
+    {
+        "name": "Lao National Radio 94.3",
+        "url": "https:\/\/radio.lnr.org.la\/fm94",
+        "country": "The Lao Peoples Democratic Republic",
+        "countrycode": "LA",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/lnr.org.la\/wp-content\/uploads\/2021\/02\/Radio-Logo-lnr01-300x300.png"
+    }
+]

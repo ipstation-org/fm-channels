@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Cambodia",
+        "countrycode": "KH",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "https:\/\/mp3islam.com\/favicon.ico"
+    },
+    {
+        "name": "National Radio of Kampuchea",
+        "url": "http:\/\/119.82.252.6:8080\/broadwave.mp3",
+        "country": "Cambodia",
+        "countrycode": "KH",
+        "state": "",
+        "tags": "",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "khmer",
+        "favicon": "https:\/\/storage.googleapis.com\/rnk\/notification-icon-150x150.png"
+    },
+    {
+        "name": "Vayo FM",
+        "url": "http:\/\/50.21.176.38:8010\/vayofm",
+        "country": "Cambodia",
+        "countrycode": "KH",
+        "state": "Phnom Penh",
+        "tags": "news,politics,talk",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "khmer",
+        "favicon": "https:\/\/vayofm.com\/images\/vayofm.png"
+    }
+]

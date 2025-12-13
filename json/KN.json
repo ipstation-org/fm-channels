@@ -1,0 +1,62 @@
+[
+    {
+        "name": "2020 Vision Radio",
+        "url": "http:\/\/perseus.shoutca.st:8218\/;",
+        "country": "Saint Kitts And Nevis",
+        "countrycode": "KN",
+        "state": "",
+        "tags": "",
+        "bitrate": 320,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/static.wixstatic.com\/media\/81047c_cee147cd5a07454fa40c53b68e7bed10%7emv2.png\/v1\/fill\/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01\/81047c_cee147cd5a07454fa40c53b68e7bed10%7emv2.png"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "Saint Kitts And Nevis",
+        "countrycode": "KN",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Sugar City 90.3 FM",
+        "url": "http:\/\/104.131.13.48:8000\/radio.mp3",
+        "country": "Saint Kitts And Nevis",
+        "countrycode": "KN",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "VON Radio",
+        "url": "http:\/\/ais-sa1.streamon.fm\/7008_24k.aac?type=.mp3\/",
+        "country": "Saint Kitts And Nevis",
+        "countrycode": "KN",
+        "state": "",
+        "tags": "",
+        "bitrate": 96,
+        "codec": "AAC",
+        "language": "english",
+        "favicon": "https:\/\/vonradio.com\/wp-content\/uploads\/2019\/02\/logo-von-fav.png"
+    },
+    {
+        "name": "ZIZ Radio",
+        "url": "http:\/\/media.slactech.com:8014\/stream",
+        "country": "Saint Kitts And Nevis",
+        "countrycode": "KN",
+        "state": "",
+        "tags": "",
+        "bitrate": 64,
+        "codec": "MP3",
+        "language": "",
+        "favicon": "https:\/\/zizonline.com\/wp-content\/uploads\/2021\/04\/ziz-logo-web-2021-v1.jpg"
+    }
+]

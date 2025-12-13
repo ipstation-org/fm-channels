@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https:\/\/radio.mp3islam.com\/listen\/abdulbasit\/radio.mp3",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "",
+        "tags": "",
+        "bitrate": 192,
+        "codec": "MP3",
+        "language": "arabic",
+        "favicon": "null"
+    },
+    {
+        "name": "Pyongyang Radio FM",
+        "url": "https:\/\/listen7.myradio24.com\/69366",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "Pyongyang",
+        "tags": "news music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "spanish",
+        "favicon": "https:\/\/kfaspain.es\/wp-content\/uploads\/2022\/01\/KCBS-LOGO.png"
+    },
+    {
+        "name": "Voice of Chongro",
+        "url": "https:\/\/stream-175.zeno.fm\/oldwnjuma3duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvbGR3bmp1bWEzZHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSkhFSUJ1eGpTSldqYlRtb0lwZWw4USIsImlhdCI6MTc2NTU4MDE3OSwiZXhwIjoxNzY1NTgwMjM5fQ.Ag5z6IoFNJ6Fn50aCWdx7mcx86zftgbE8e-db7CvrbI",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "",
+        "tags": "music",
+        "bitrate": 0,
+        "codec": "MP3",
+        "language": "korean",
+        "favicon": "https:\/\/zeno.fm\/_ipx\/f_webp&q_85&fit_cover&s_288x288\/https:\/\/images.zeno.fm\/gSvreLhLuVh1fUjDbdkvgmnIEJCdgomYW8toTV7Mq9Y\/rs:fill:288:288\/g:ce:0:0\/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDYzYjY3ZGMtY2U5NC00OGVlLWJmNjYtZDBlYWJkMWQ2OTA0L2ltYWdlLz91PTE3MjE0NzQ0NjAwMDA.webp"
+    },
+    {
+        "name": "Voice of Korea",
+        "url": "https:\/\/listen7.myradio24.com\/69366",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "",
+        "tags": "music,news",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "",
+        "favicon": ""
+    },
+    {
+        "name": "Voice of Korea (Russian)",
+        "url": "https:\/\/listen4.myradio24.com\/60315",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "russian",
+        "favicon": "http:\/\/www.vok.rep.kp\/resources\/img\/logo_r.png"
+    },
+    {
+        "name": "Голос Корей",
+        "url": "https:\/\/listen4.myradio24.com\/60315",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "",
+        "tags": "",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "язык: русский",
+        "favicon": "null"
+    },
+    {
+        "name": "조선중앙텔레비죤",
+        "url": "https:\/\/tv.nknews.org\/tvhls\/stream.m3u8",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "",
+        "tags": "information",
+        "bitrate": 0,
+        "codec": "UNKNOWN",
+        "language": "korean",
+        "favicon": "http:\/\/www.nettvpro.xyz\/uploads\/25\/1-250114135Q0205.png"
+    },
+    {
+        "name": "평양FM105.2",
+        "url": "http:\/\/listen7.myradio24.com\/69366",
+        "country": "The Democratic Peoples Republic Of Korea",
+        "countrycode": "KP",
+        "state": "Pyongyang",
+        "tags": "105.2,105.2 fm,music",
+        "bitrate": 128,
+        "codec": "MP3",
+        "language": "korean",
+        "favicon": "https:\/\/www.behindthecurtain-northkorea.com\/favicon.ico"
+    }
+]
